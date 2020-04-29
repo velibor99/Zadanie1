@@ -1,1 +1,2 @@
 Bakalárska práca - Návrh algoritmu pre rozpoznávací proces emócií z diskusných fór
+Obhajova doba prace : 2020/2021
